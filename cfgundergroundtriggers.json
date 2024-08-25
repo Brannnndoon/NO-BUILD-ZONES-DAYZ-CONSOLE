@@ -1,0 +1,68 @@
+{
+    "Triggers":
+	[
+	{
+   "Position": [ 1652.55, -0, 14336.39 ],
+   "Orientation": [ 0, -0, -0 ],                            
+   "Size": [ 2800, 2800, 2800 ],                         
+   "EyeAccommodation": 1,                             
+   "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                                
+      } ,
+      {
+        "Position": [ 8223.88, -0, 9030.96 ],
+        "Orientation": [ 0, -0, -0 ],                            
+        "Size": [ 500, 500, 500 ],                         
+        "EyeAccommodation": 1,                             
+        "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                         
+           } ,
+           {
+            "Position": [ 1279.27, -0, 9375.81 ],
+            "Orientation": [ 0, -0, -0 ],                            
+            "Size": [ 500, 500, 500 ],                         
+            "EyeAccommodation": 1,                             
+            "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                                
+               } ,
+               {
+                "Position": [ 4728.25, -0, 10498.58 ],
+                "Orientation": [ 0, -0, -0 ],                            
+                "Size": [ 2500, 2500, 2500 ],                         
+                "EyeAccommodation": 1,                             
+                "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                                
+                   } 	,
+                   {
+                    "Position": [ 4502.72, -0, 9697.57 ],
+                    "Orientation": [ 0, -0, -0 ],                            
+                    "Size": [ 1000, 1000, 1000 ],                         
+                    "EyeAccommodation": 1,                             
+                    "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                                
+                       } ,
+                       {
+                        "Position": [ 4187.77, -0, 11039.06 ],
+                        "Orientation": [ 0, -0, -0 ],                            
+                        "Size": [ 1000, 1000, 1000 ],                         
+                        "EyeAccommodation": 1,                             
+                        "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                                
+                           } ,
+                           {
+                            "Position": [ 2147.35, -0, 3343.02 ],
+                            "Orientation": [ 0, -0, -0 ],                            
+                            "Size": [ 1000, 1000, 1000 ],                         
+                            "EyeAccommodation": 1,                             
+                            "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                                
+                               } ,
+                               {
+                                "Position": [ 1149.98, -0, 7238.18 ],
+                                "Orientation": [ 0, -0, -0 ],                            
+                                "Size": [ 500, 500, 500 ],                         
+                                "EyeAccommodation": 1,                             
+                                "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                                
+                                   } ,
+                                   {
+                                    "Position": [ 4525.32, -0, 8301.17 ],
+                                    "Orientation": [ 0, -0, -0 ],                            
+                                    "Size": [ 500, 500, 500 ],                         
+                                    "EyeAccommodation": 1,                             
+                                    "InterpolationSpeed": 9999999999999999999999999999999999999999999999999999999999                                
+                                       } 	
+	]
+}
